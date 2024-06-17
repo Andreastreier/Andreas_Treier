@@ -1,4 +1,3 @@
-# Portfolio
 
 ### Haridus
 - Eesti Ettevõtluskõrgkool Mainor (2022 veebitehnoloogiad eriala 3 aastane rakenduslik õpe, kaugõppe vormis)  
