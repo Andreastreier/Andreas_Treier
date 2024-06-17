@@ -31,8 +31,9 @@ FIFAA AS  Laotöötaja/klienditeenindaja (05/2022-09/2022)
 - Meeldib tegeleda kokkamise, spordiga milleks enamasti korvpall, arvutitega, näiteks tegelen riiete ja jalanõude edasi müümisega.
 - Kui käisin Mainoris, siis aitasin inimesi C++-iga kui oli vaja abi koodi kirjutamisega ning muidu koolis ka kui Powerpointe
   või mingeid muid töid oli vaja teha. Töö kohtadel on ka olnud palju abi arvuti teadmistest kui arvutitel on probleeme ette tekkinud,
-  näiteks kõlareid ära ühendada, interneti kaableid jne. Arvutid on alati teine huvi korvpalli kõrvalt olnud, olgu need kas mängude
-  mängimised, lehekülgede tegemised või niisama arvutis surfamine kooli või  millegi muu jaoks.
+  näiteks kõlareid ära ühendada, interneti kaableid jne. Arvutid on alati teine huvi korvpalli kõrvalt juba väiksest saati, olgu need, kas mängude
+  mängimised, lehekülgede tegemised või niisama arvutis surfamine kooli või  millegi muu jaoks. Mainoris õppisin ITd, kuid kuna oli tasuline
+  ja mul polnud võimalik tööl käia samal ajal pidin koolist ära tulema, kuid õpingud meeldisid väga. 
 
   
 
