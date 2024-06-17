@@ -1,7 +1,5 @@
 # Portfolio
 
-![Andreas Treier](https://github.com/Andreastreier/Andreas_Treier/assets/170000836/65b26f19-3b89-4e1e-918a-11948c82f8b8)c
-
 ### Haridus
 - Eesti Ettevõtluskõrgkool Mainor (2022 veebitehnoloogiad eriala 3 aastane rakenduslik õpe, kaugõppe vormis)  
 - Global Vision Christian School, Scotland, PA, USA (2021-2022)
